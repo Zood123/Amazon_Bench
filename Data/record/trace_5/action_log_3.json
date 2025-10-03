@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752364723537,
+    "current_url": "https://www.amazon.com/s?k=black+Apple+Watch+Series+10&crid=3RR6OUHBKVMA3&sprefix=black+apple+watch+series+10%2Caps%2C164&ref=nb_sb_noss_1",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "a-autoid-1-announce",
+      "className": "a-button-text",
+      "innerText": "Add to cart",
+      "bid": "1385"
+    },
+    "action_string": "click(\"1385\")",
+    "testid": "1385"
+  }
+]

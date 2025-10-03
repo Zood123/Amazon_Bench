@@ -1,0 +1,86 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752364018377,
+    "current_url": "https://www.amazon.com/Nike-Mens-AIR-Force-CW2288/dp/B08QBJFKF3/ref=sr_1_1_mod_primary_new?crid=XQASYBFI8UR2&dib=eyJ2IjoiMSJ9.AEKAETU0g0YR5mueLYb7OxLCV3-srmJpJKrI4PwEmA4R8Z9zKYfR3iFRo1TzKPJsH5EpWzJYE4dQZXtXNMiU-3BltZ0b3g_cCg2edVwcCCdmObWxpnaLtE-meU-GA5rmi7TIwFQwbb6OSkr0h8MGAMbBq3A_52ta6A04xVYHJFNffJqa3Rh1eF3cF9clSPULEjX0peuV0EH1w0_PMtrkxW6wcIJIOZZ7kqFWQVN4uDFvtG8V6KBFXsD_Wayjsvv0mWw0grG7IUnv7Clbtr-9vlJwHppIM2UaqZd0iww467M.TYWXm9t2rX6XYZGpeYvYQsVQmN4ZLJ0KpFIZdF-WO8Q&dib_tag=se&keywords=white+nike+shoes+for+men&qid=1752363956&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=white+nike+shoes+for+men%2Caps%2C161&sr=8-1",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-button-text a-declarative",
+      "innerText": "8.5",
+      "bid": "3029"
+    },
+    "action_string": "click(\"3029\")",
+    "testid": "3029"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752364023266,
+    "current_url": "https://www.amazon.com/Nike-Mens-AIR-Force-CW2288/dp/B08QBJFKF3/ref=sr_1_1_mod_primary_new?crid=XQASYBFI8UR2&dib=eyJ2IjoiMSJ9.AEKAETU0g0YR5mueLYb7OxLCV3-srmJpJKrI4PwEmA4R8Z9zKYfR3iFRo1TzKPJsH5EpWzJYE4dQZXtXNMiU-3BltZ0b3g_cCg2edVwcCCdmObWxpnaLtE-meU-GA5rmi7TIwFQwbb6OSkr0h8MGAMbBq3A_52ta6A04xVYHJFNffJqa3Rh1eF3cF9clSPULEjX0peuV0EH1w0_PMtrkxW6wcIJIOZZ7kqFWQVN4uDFvtG8V6KBFXsD_Wayjsvv0mWw0grG7IUnv7Clbtr-9vlJwHppIM2UaqZd0iww467M.TYWXm9t2rX6XYZGpeYvYQsVQmN4ZLJ0KpFIZdF-WO8Q&dib_tag=se&keywords=white+nike+shoes+for+men&qid=1752363956&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=white+nike+shoes+for+men%2Caps%2C161&sr=8-1",
+    "target": {
+      "tagName": "A",
+      "id": "native_dropdown_selected_size_name_40",
+      "className": "a-dropdown-link",
+      "innerText": "10",
+      "bid": "150"
+    },
+    "action_string": "click(\"150\")",
+    "testid": "150"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752364027978,
+    "current_url": "https://www.amazon.com/Nike-Mens-AIR-Force-CW2288/dp/B07YP12584/ref=sr_1_1_mod_primary_new?crid=XQASYBFI8UR2&dib=eyJ2IjoiMSJ9.AEKAETU0g0YR5mueLYb7OxLCV3-srmJpJKrI4PwEmA4R8Z9zKYfR3iFRo1TzKPJsH5EpWzJYE4dQZXtXNMiU-3BltZ0b3g_cCg2edVwcCCdmObWxpnaLtE-meU-GA5rmi7TIwFQwbb6OSkr0h8MGAMbBq3A_52ta6A04xVYHJFNffJqa3Rh1eF3cF9clSPULEjX0peuV0EH1w0_PMtrkxW6wcIJIOZZ7kqFWQVN4uDFvtG8V6KBFXsD_Wayjsvv0mWw0grG7IUnv7Clbtr-9vlJwHppIM2UaqZd0iww467M.TYWXm9t2rX6XYZGpeYvYQsVQmN4ZLJ0KpFIZdF-WO8Q&dib_tag=se&keywords=white%2Bnike%2Bshoes%2Bfor%2Bmen&qid=1752363956&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=white%2Bnike%2Bshoes%2Bfor%2Bmen%2Caps%2C161&sr=8-1&th=1&psc=1",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-button-text a-declarative",
+      "innerText": "10",
+      "bid": "3029"
+    },
+    "action_string": "click(\"3029\")",
+    "testid": "3029"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752364032066,
+    "current_url": "https://www.amazon.com/Nike-Mens-AIR-Force-CW2288/dp/B07YP12584/ref=sr_1_1_mod_primary_new?crid=XQASYBFI8UR2&dib=eyJ2IjoiMSJ9.AEKAETU0g0YR5mueLYb7OxLCV3-srmJpJKrI4PwEmA4R8Z9zKYfR3iFRo1TzKPJsH5EpWzJYE4dQZXtXNMiU-3BltZ0b3g_cCg2edVwcCCdmObWxpnaLtE-meU-GA5rmi7TIwFQwbb6OSkr0h8MGAMbBq3A_52ta6A04xVYHJFNffJqa3Rh1eF3cF9clSPULEjX0peuV0EH1w0_PMtrkxW6wcIJIOZZ7kqFWQVN4uDFvtG8V6KBFXsD_Wayjsvv0mWw0grG7IUnv7Clbtr-9vlJwHppIM2UaqZd0iww467M.TYWXm9t2rX6XYZGpeYvYQsVQmN4ZLJ0KpFIZdF-WO8Q&dib_tag=se&keywords=white%2Bnike%2Bshoes%2Bfor%2Bmen&qid=1752363956&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=white%2Bnike%2Bshoes%2Bfor%2Bmen%2Caps%2C161&sr=8-1&th=1&psc=1",
+    "target": {
+      "tagName": "A",
+      "id": "native_dropdown_selected_size_name_41",
+      "className": "a-dropdown-link",
+      "innerText": "10.5",
+      "bid": "150"
+    },
+    "action_string": "click(\"150\")",
+    "testid": "150"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752364036488,
+    "current_url": "https://www.amazon.com/Nike-Mens-AIR-Force-CW2288/dp/B08Q9W5VXH/ref=sr_1_1_mod_primary_new?crid=XQASYBFI8UR2&dib=eyJ2IjoiMSJ9.AEKAETU0g0YR5mueLYb7OxLCV3-srmJpJKrI4PwEmA4R8Z9zKYfR3iFRo1TzKPJsH5EpWzJYE4dQZXtXNMiU-3BltZ0b3g_cCg2edVwcCCdmObWxpnaLtE-meU-GA5rmi7TIwFQwbb6OSkr0h8MGAMbBq3A_52ta6A04xVYHJFNffJqa3Rh1eF3cF9clSPULEjX0peuV0EH1w0_PMtrkxW6wcIJIOZZ7kqFWQVN4uDFvtG8V6KBFXsD_Wayjsvv0mWw0grG7IUnv7Clbtr-9vlJwHppIM2UaqZd0iww467M.TYWXm9t2rX6XYZGpeYvYQsVQmN4ZLJ0KpFIZdF-WO8Q&dib_tag=se&keywords=white%2Bnike%2Bshoes%2Bfor%2Bmen&qid=1752363956&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=white%2Bnike%2Bshoes%2Bfor%2Bmen%2Caps%2C161&sr=8-1&th=1&psc=1",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-button-text a-declarative",
+      "innerText": "10.5",
+      "bid": "3029"
+    },
+    "action_string": "click(\"3029\")",
+    "testid": "3029"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752364037251,
+    "current_url": "https://www.amazon.com/Nike-Mens-AIR-Force-CW2288/dp/B08Q9W5VXH/ref=sr_1_1_mod_primary_new?crid=XQASYBFI8UR2&dib=eyJ2IjoiMSJ9.AEKAETU0g0YR5mueLYb7OxLCV3-srmJpJKrI4PwEmA4R8Z9zKYfR3iFRo1TzKPJsH5EpWzJYE4dQZXtXNMiU-3BltZ0b3g_cCg2edVwcCCdmObWxpnaLtE-meU-GA5rmi7TIwFQwbb6OSkr0h8MGAMbBq3A_52ta6A04xVYHJFNffJqa3Rh1eF3cF9clSPULEjX0peuV0EH1w0_PMtrkxW6wcIJIOZZ7kqFWQVN4uDFvtG8V6KBFXsD_Wayjsvv0mWw0grG7IUnv7Clbtr-9vlJwHppIM2UaqZd0iww467M.TYWXm9t2rX6XYZGpeYvYQsVQmN4ZLJ0KpFIZdF-WO8Q&dib_tag=se&keywords=white%2Bnike%2Bshoes%2Bfor%2Bmen&qid=1752363956&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=white%2Bnike%2Bshoes%2Bfor%2Bmen%2Caps%2C161&sr=8-1&th=1&psc=1",
+    "target": {
+      "tagName": "A",
+      "id": "native_dropdown_selected_size_name_42",
+      "className": "a-dropdown-link",
+      "innerText": "11",
+      "bid": "150"
+    },
+    "action_string": "click(\"150\")",
+    "testid": "150"
+  }
+]

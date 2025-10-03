@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752366331276,
+    "current_url": "https://www.amazon.com/s?k=Nintendo+Switch+Console&crid=26NGOQYS3GJAN&sprefix=nintendo+switch+console+%2Caps%2C162&ref=nb_sb_noss_2",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "",
+      "innerText": "Nintendo Switch\u2122 with Neon Blue and Neon Red Joy\u2011Con\u2122",
+      "bid": "1448"
+    },
+    "action_string": "click(\"1448\")",
+    "testid": "1448"
+  }
+]

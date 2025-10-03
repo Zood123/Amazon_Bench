@@ -1,0 +1,29 @@
+[
+  {
+    "type": "change",
+    "timestamp": 1752366744648,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "value": "Holiday Gifts"
+    },
+    "action_string": "fill(\"4705\", \"Holiday Gifts\")",
+    "testid": "4705"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752366744738,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "DIV",
+      "id": "",
+      "className": "a-section",
+      "innerText": "Use lists to save items for later. All lists are private unless you share them with others.",
+      "bid": "4710"
+    },
+    "action_string": "click(\"4710\")",
+    "testid": "4710"
+  }
+]

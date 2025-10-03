@@ -9,8 +9,8 @@ There are three parts: data generation, execution and evaluation
 
 ## Data
 
-Our Amazon-Bench has 400 user queries in `data`.
-Offline data is in `record`.
+Our Amazon-Bench has 400 user queries in `Data`.
+Offline data is in `Data/record`.
 
 
 

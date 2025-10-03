@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752366354108,
+    "current_url": "https://www.amazon.com/Nintendo-SwitchTM-Neon-Blue-Joy%E2%80%91ConTM-Switch/dp/B0BFJWCYTL/ref=sr_1_1?crid=26NGOQYS3GJAN&dib=eyJ2IjoiMSJ9.SnJwwaQgWAAz2ipQdcQ--9DESM6PSvk_AqYdkfnDw4pitLkrJIhaV0rRdLbiKevJta4d20Rg9Y69fd8awESg0ulTlkmMAu5cF5WLh95ODkRPbdFoabx1hQlqDqw-qquPJCxQU3WbchZffqjMdVCRvh1VcvVx8j9wHVMFzGQEwObyLnfJjxT37dvpz9-aNorvoVjzadyO5b5aBpZcxScu13jL3jt2cBOAKpzfz0TIiCQ.1QE8T0ksi2X5UtA3DyWziltjIiBMYdik2NdrkjILUTc&dib_tag=se&keywords=Nintendo%2BSwitch%2BConsole&qid=1752366318&sprefix=nintendo%2Bswitch%2Bconsole%2B%2Caps%2C162&sr=8-1&th=1",
+    "target": {
+      "tagName": "INPUT",
+      "id": "add-to-wishlist-button",
+      "className": "a-button-input a-declarative",
+      "innerText": "",
+      "bid": "2835"
+    },
+    "action_string": "click(\"2835\")",
+    "testid": "2835"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752392785579,
+    "current_url": "https://www.amazon.com/gp/gss/manage?ref_=ya_d_l_amazon_delivers&ie=UTF8",
+    "target": {
+      "tagName": "DIV",
+      "id": "",
+      "className": "a-switch a-declarative",
+      "innerText": "",
+      "bid": "951"
+    },
+    "action_string": "click(\"951\")",
+    "testid": "951"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752392785582,
+    "current_url": "https://www.amazon.com/gp/gss/manage?ref_=ya_d_l_amazon_delivers&ie=UTF8",
+    "target": {
+      "tagName": "INPUT",
+      "id": "subscription-status-toggle",
+      "className": "a-declarative a-switch-input",
+      "innerText": "",
+      "bid": "949"
+    },
+    "action_string": "click(\"949\")",
+    "testid": "949"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752392785583,
+    "current_url": "https://www.amazon.com/gp/gss/manage?ref_=ya_d_l_amazon_delivers&ie=UTF8",
+    "target": {
+      "tagName": "INPUT",
+      "id": "subscription-status-toggle",
+      "className": "a-declarative a-switch-input",
+      "value": "on"
+    },
+    "action_string": "fill(\"949\", \"on\")",
+    "testid": "949"
+  }
+]

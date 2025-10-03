@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752529480791,
+    "current_url": "https://www.amazon.com/hz/profilepicker/amazonfamily/members/add-member",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "sc-imWYAI geJsBa",
+      "innerText": "New",
+      "bid": "695"
+    },
+    "action_string": "click(\"695\")",
+    "testid": "695"
+  }
+]

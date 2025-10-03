@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752533664541,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAACUmA%2FPBIE2t9O2aPNZDGM%2FQAAAAAAAAAA31BsPupVZo9j8f%2BcaxxB6TscXgzJsuZUOLs%2FvoxU%2FmP7yu1jaMuWiOhUWE6Qnimic9af9F3%2Blm%2Fkc%2BZFQdsX%2F&qap=",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "number-input-box",
+      "innerText": "",
+      "bid": "5718"
+    },
+    "action_string": "click(\"5718\")",
+    "testid": "5718"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752533800224,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAACUmA%2FPBIE2t9O2aPNZDGM%2FQAAAAAAAAAA31BsPupVZo9j8f%2BcaxxB6TscXgzJsuZUOLs%2FvoxU%2FmP7yu1jaMuWiOhUWE6Qnimic9af9F3%2Blm%2Fkc%2BZFQdsX%2F&qap=",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "number-input-box",
+      "value": "160"
+    },
+    "action_string": "fill(\"5718\", \"160\")",
+    "testid": "5718"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533800314,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAACUmA%2FPBIE2t9O2aPNZDGM%2FQAAAAAAAAAA31BsPupVZo9j8f%2BcaxxB6TscXgzJsuZUOLs%2FvoxU%2FmP7yu1jaMuWiOhUWE6Qnimic9af9F3%2Blm%2Fkc%2BZFQdsX%2F&qap=",
+    "target": {
+      "tagName": "DIV",
+      "id": "",
+      "className": "survey-frame desktop",
+      "innerText": "What's your current height and weight? Height cm ft ft in Weight kg lbs lbs Save",
+      "bid": "5689"
+    },
+    "action_string": "click(\"5689\")",
+    "testid": "5689"
+  }
+]

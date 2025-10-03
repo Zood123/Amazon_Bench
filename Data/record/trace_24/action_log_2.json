@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752372383031,
+    "current_url": "https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-normal",
+      "innerText": "Digital Orders",
+      "bid": "757"
+    },
+    "action_string": "click(\"757\")",
+    "testid": "757"
+  }
+]

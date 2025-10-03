@@ -1,0 +1,44 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752368109784,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "innerText": "",
+      "bid": "243"
+    },
+    "action_string": "click(\"243\")",
+    "testid": "243"
+  },
+  12.05,
+  {
+    "type": "change",
+    "timestamp": 1752368131004,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "value": "GREENIES"
+    },
+    "action_string": "fill(\"243\", \"GREENIES\")",
+    "testid": "243"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752368131089,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "nav-xshop",
+      "className": "nav-progressive-content",
+      "innerText": "Amazon Haul Same-Day Delivery Medical Care Saks Amazon Basics New Releases Best Sellers Groceries Music Livestreams Today's Deals Luxury Stores Customer Service Prime Video Gift Cards Gift Shop Keep Shopping For Registry Buy Again Handmade Audible Beauty & Personal Care Shop By Interest Home Improvement Pharmacy Sell Fashion Automotive Smart Home Amazon Home",
+      "bid": "582"
+    },
+    "action_string": "click(\"582\")",
+    "testid": "582"
+  }
+]

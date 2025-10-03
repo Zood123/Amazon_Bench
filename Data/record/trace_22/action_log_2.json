@@ -1,0 +1,30 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752372003172,
+    "current_url": "https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-dropdown-prompt",
+      "innerText": "past 3 months",
+      "bid": "782"
+    },
+    "action_string": "click(\"782\")",
+    "testid": "782"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752372013254,
+    "current_url": "https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first",
+    "target": {
+      "tagName": "A",
+      "id": "time-filter_2",
+      "className": "a-dropdown-link",
+      "innerText": "2025",
+      "bid": "41"
+    },
+    "action_string": "click(\"41\")",
+    "testid": "41"
+  }
+]

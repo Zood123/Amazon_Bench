@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752531846273,
+    "current_url": "https://www.amazon.com/hz/profilepicker/amazonfamily/member-details/amzn1.actor.person.oid.AX6LOTUTONSUG",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "sc-ejfMa-d cnNUg",
+      "innerText": "Set mobile number",
+      "bid": "754"
+    },
+    "action_string": "click(\"754\")",
+    "testid": "754"
+  }
+]

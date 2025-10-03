@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752373305280,
+    "current_url": "https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-normal",
+      "innerText": "Cancelled Orders",
+      "bid": "815"
+    },
+    "action_string": "click(\"815\")",
+    "testid": "815"
+  }
+]

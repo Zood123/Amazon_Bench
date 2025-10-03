@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752372271460,
+    "current_url": "https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-normal",
+      "innerText": "Not Yet Shipped",
+      "bid": "755"
+    },
+    "action_string": "click(\"755\")",
+    "testid": "755"
+  }
+]

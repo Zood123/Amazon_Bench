@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752431987722,
+    "current_url": "https://www.amazon.com/fanshop/nba?ref_=slls_fs_lp_d",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-truncate-cut",
+      "innerText": "Chicago Bulls",
+      "bid": "973"
+    },
+    "action_string": "click(\"973\")",
+    "testid": "973"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367402709,
+    "current_url": "https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-button-text a-declarative",
+      "innerText": "Select",
+      "bid": "14306"
+    },
+    "action_string": "click(\"14306\")",
+    "testid": "14306"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752367413186,
+    "current_url": "https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button",
+    "target": {
+      "tagName": "A",
+      "id": "address-ui-widgets-enterAddressStateOrRegion-dropdown-nativeId_36",
+      "className": "a-dropdown-link",
+      "innerText": "New York",
+      "bid": "12583"
+    },
+    "action_string": "click(\"12583\")",
+    "testid": "12583"
+  }
+]

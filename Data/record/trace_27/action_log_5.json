@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752531187061,
+    "current_url": "https://www.amazon.com/stores/page/8CBDB2C6-B6EA-43EA-91FF-2A1EF186A295/?_encoding=UTF8&store_ref=SB_A074123533TQVB64VEQH5-A06154253APY9EO8UZZHD&pd_rd_plhdr=t&aaxitk=270956063a90e75ecd146e4684bb8f2d&hsa_cr_id=0&lp_asins=B0CNL86337%2CB0CNL88WLV%2CB000KAJ51U&lp_query=GREENIES&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=18egf&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=B0S6YM7JW5ZK3Z0BDH7E&pd_rd_wg=NbzB9&pd_rd_r=36685eee-4640-4ea6-89b0-ff14a6765b62",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "",
+      "innerText": "Dental Treats",
+      "bid": "2539"
+    },
+    "action_string": "click(\"2539\")",
+    "testid": "2539"
+  }
+]

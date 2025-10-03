@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367863043,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "",
+      "className": "",
+      "innerText": "EN",
+      "bid": "259"
+    },
+    "action_string": "click(\"259\")",
+    "testid": "259"
+  }
+]

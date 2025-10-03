@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752363425351,
+    "current_url": "https://www.amazon.com/s?k=Sony+wireless+headphone&crid=12UUAW2YGQ8ZY&sprefix=sony+wireless+headphone%2Caps%2C161&ref=nb_sb_noss_1",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "",
+      "innerText": "WH-CH520 Wireless Headphones Bluetooth On-Ear Headset with Microphone and up to 50 Hours Battery Life with Quick Charging, Black",
+      "bid": "1056"
+    },
+    "action_string": "click(\"1056\")",
+    "testid": "1056"
+  }
+]

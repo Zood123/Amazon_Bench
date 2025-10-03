@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752364679030,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "innerText": "",
+      "bid": "242"
+    },
+    "action_string": "click(\"242\")",
+    "testid": "242"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752364702492,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "value": "black Apple Watch Series 10"
+    },
+    "action_string": "fill(\"242\", \"black Apple Watch Series 10\")",
+    "testid": "242"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752364702564,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "nav-swmslot",
+      "className": "",
+      "innerText": "",
+      "bid": "655"
+    },
+    "action_string": "click(\"655\")",
+    "testid": "655"
+  }
+]

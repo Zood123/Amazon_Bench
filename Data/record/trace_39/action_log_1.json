@@ -1,0 +1,114 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752533236360,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "nav-line-2 ",
+      "innerText": "Account & Lists",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533241953,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "sc-fqkvVR sc-kMkxaj lajAPo qrSrg",
+      "innerText": "Manage Profiles",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533251040,
+    "current_url": "https://www.amazon.com/slc/hub?disablePicker=1&shoppingAs=1&ref=sl_ph_navpicker&encodedActorId=AAAAAAAAAACUmA%2FPBIE2t9O2aPNZDGM%2FQAAAAAAAAAA1hO46CwqV7L6bhITLOC84FlqqcHOuhwFF20NaVqH%2FcuJEjY134wVUjHoITRvF2rNehB4h7F88fFexbDPqx4dM&qap=",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-emphasis ingress-link desktop",
+      "innerText": "Explore Amazon Fan Shop",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533253683,
+    "current_url": "https://www.amazon.com/fanshop?ref_=ph_fs",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-truncate-cut",
+      "innerText": "NBA",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533255830,
+    "current_url": "https://www.amazon.com/fanshop/nba?ref_=slls_fs_lp_d",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-truncate-cut",
+      "innerText": "Chicago Bulls",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533257349,
+    "current_url": "https://www.amazon.com/fanshop/nba/chicago-bulls?ref_=slls_nba_tp_d",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "pcip-team-banner-follow-button-46f6982a74e4449e85ad4c64f765e391-announce",
+      "className": "a-button-text",
+      "innerText": "",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533260474,
+    "current_url": "https://www.amazon.com/fanshop/nba/chicago-bulls?ref_=slls_nba_tp_d",
+    "target": {
+      "tagName": "A",
+      "id": "nav-logo-sprites",
+      "className": "nav-logo-link nav-progressive-attribute",
+      "innerText": "",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752533270296,
+    "current_url": "https://www.amazon.com/ref=nav_logo",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "nav-line-2 ",
+      "innerText": "Account & Lists",
+      "bid": "263"
+    },
+    "action_string": "click(\"263\")",
+    "testid": "263"
+  }
+]

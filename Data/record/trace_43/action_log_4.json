@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752445514567,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "I",
+      "id": "",
+      "className": "a-icon a-icon-checkbox",
+      "innerText": "",
+      "bid": "10829"
+    },
+    "action_string": "click(\"10829\")",
+    "testid": "10829"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752445514578,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "",
+      "innerText": "",
+      "bid": "10828"
+    },
+    "action_string": "click(\"10828\")",
+    "testid": "10828"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752445514579,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "",
+      "value": ""
+    },
+    "action_string": "fill(\"10828\", \"\")",
+    "testid": "10828"
+  }
+]

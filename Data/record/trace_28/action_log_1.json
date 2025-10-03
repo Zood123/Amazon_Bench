@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752532475072,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "nav-a nav-a-2 nav-truncate   nav-progressive-attribute",
+      "innerText": "Hello, John Account & Lists",
+      "bid": "260"
+    },
+    "action_string": "click(\"260\")",
+    "testid": "260"
+  }
+]

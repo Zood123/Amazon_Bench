@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367723932,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "A",
+      "id": "pp-IX7lpL-79",
+      "className": "a-link-normal apx-secure-registration-content-trigger-js",
+      "innerText": "Add a credit or debit card",
+      "bid": "6845"
+    },
+    "action_string": "click(\"6845\")",
+    "testid": "6845"
+  }
+]

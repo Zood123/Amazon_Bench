@@ -1,0 +1,57 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752366717687,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "innerText": "",
+      "bid": "2309"
+    },
+    "action_string": "click(\"2309\")",
+    "testid": "2309"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752366726464,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "value": ""
+    },
+    "action_string": "fill(\"2309\", \"\")",
+    "testid": "2309"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752366726580,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "LABEL",
+      "id": "",
+      "className": "a-form-label",
+      "innerText": "List name (required)",
+      "bid": "2306"
+    },
+    "action_string": "click(\"2306\")",
+    "testid": "2306"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752366726582,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "innerText": "",
+      "bid": "2309"
+    },
+    "action_string": "click(\"2309\")",
+    "testid": "2309"
+  }
+]

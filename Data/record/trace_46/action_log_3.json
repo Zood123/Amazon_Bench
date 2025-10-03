@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752447909537,
+    "current_url": "https://www.amazon.com/gp/gss/manage?ref_=ya_d_l_amazon_delivers&ie=UTF8",
+    "target": {
+      "tagName": "LABEL",
+      "id": "",
+      "className": "a-switch-label a-declarative",
+      "innerText": "on",
+      "bid": "747"
+    },
+    "action_string": "click(\"747\")",
+    "testid": "747"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752447909541,
+    "current_url": "https://www.amazon.com/gp/gss/manage?ref_=ya_d_l_amazon_delivers&ie=UTF8",
+    "target": {
+      "tagName": "INPUT",
+      "id": "subscription-status-toggle",
+      "className": "a-declarative a-switch-input",
+      "innerText": "",
+      "bid": "746"
+    },
+    "action_string": "click(\"746\")",
+    "testid": "746"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752447909543,
+    "current_url": "https://www.amazon.com/gp/gss/manage?ref_=ya_d_l_amazon_delivers&ie=UTF8",
+    "target": {
+      "tagName": "INPUT",
+      "id": "subscription-status-toggle",
+      "className": "a-declarative a-switch-input",
+      "value": "on"
+    },
+    "action_string": "fill(\"746\", \"on\")",
+    "testid": "746"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752445549900,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "INPUT",
+      "id": "warranty-checkbox-input.0.0",
+      "className": "",
+      "innerText": "",
+      "bid": "22602"
+    },
+    "action_string": "click(\"22602\")",
+    "testid": "22602"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752445549902,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "INPUT",
+      "id": "warranty-checkbox-input.0.0",
+      "className": "",
+      "value": ""
+    },
+    "action_string": "fill(\"22602\", \"\")",
+    "testid": "22602"
+  }
+]

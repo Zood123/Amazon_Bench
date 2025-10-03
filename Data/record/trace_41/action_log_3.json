@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752534098833,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAACUmA%2FPBIE2t9O2aPNZDGM%2FQAAAAAAAAAA7SvFu2w5XxbMPGmyNTJaah13c5bnOTIyMFX9nLV8ffwLXQuPMWijW7W4W%2F1bXwpfpujtMWi%2BbIztiar998s0W&qap=",
+    "target": {
+      "tagName": "DIV",
+      "id": "",
+      "className": "accordion-trigger-content desktop",
+      "innerText": "Height & weight",
+      "bid": "746"
+    },
+    "action_string": "click(\"746\")",
+    "testid": "746"
+  }
+]

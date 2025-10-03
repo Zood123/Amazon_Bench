@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752393241976,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAADR6rK7zJd1nWXTzt3W87FBQAAAAAAAAADh%2Fc6LRr6HjK5SoAIkn%2FqrgKL9x%2FoaxjcGRzZQijKD7JE9ah0%2BCMACkRDiSCNtw%2BVeUu7oVfNRjWe2Gwt7lIg3&qap=",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-emphasis",
+      "innerText": "View your follows",
+      "bid": "1167"
+    },
+    "action_string": "click(\"1167\")",
+    "testid": "1167"
+  }
+]

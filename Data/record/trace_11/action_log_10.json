@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367442912,
+    "current_url": "https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "20973"
+    },
+    "action_string": "click(\"20973\")",
+    "testid": "20973"
+  }
+]

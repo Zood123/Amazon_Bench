@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752392387632,
+    "current_url": "https://www.amazon.com/gp/gss/manage?ref_=ya_d_l_amazon_delivers&ie=UTF8",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-size-base-plus a-link-normal",
+      "innerText": "Browse all E-mail subscriptions",
+      "bid": "929"
+    },
+    "action_string": "click(\"929\")",
+    "testid": "929"
+  }
+]

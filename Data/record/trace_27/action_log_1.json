@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752531154331,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "innerText": "",
+      "bid": "243"
+    },
+    "action_string": "click(\"243\")",
+    "testid": "243"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752531155978,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "value": "GREENIES"
+    },
+    "action_string": "fill(\"243\", \"GREENIES\")",
+    "testid": "243"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752531156053,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "nav-swmslot",
+      "className": "",
+      "innerText": "",
+      "bid": "784"
+    },
+    "action_string": "click(\"784\")",
+    "testid": "784"
+  }
+]

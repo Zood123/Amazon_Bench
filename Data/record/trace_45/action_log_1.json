@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752446193982,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "sc-fqkvVR sc-kMkxaj lajAPo qrSrg",
+      "innerText": "Manage Profiles",
+      "bid": "301"
+    },
+    "action_string": "click(\"301\")",
+    "testid": "301"
+  }
+]

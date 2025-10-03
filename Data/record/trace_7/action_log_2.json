@@ -1,0 +1,85 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752365056036,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "innerText": "",
+      "bid": "2157"
+    },
+    "action_string": "click(\"2157\")",
+    "testid": "2157"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752365056482,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "innerText": "",
+      "bid": "2157"
+    },
+    "action_string": "click(\"2157\")",
+    "testid": "2157"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752365056843,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "innerText": "",
+      "bid": "2157"
+    },
+    "action_string": "click(\"2157\")",
+    "testid": "2157"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752365067112,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "value": ""
+    },
+    "action_string": "fill(\"2157\", \"\")",
+    "testid": "2157"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752365067215,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "LABEL",
+      "id": "",
+      "className": "a-form-label",
+      "innerText": "List name (required)",
+      "bid": "2154"
+    },
+    "action_string": "click(\"2154\")",
+    "testid": "2154"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752365067218,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "list-name",
+      "className": "a-input-text create_list_text_input",
+      "innerText": "",
+      "bid": "2157"
+    },
+    "action_string": "click(\"2157\")",
+    "testid": "2157"
+  }
+]

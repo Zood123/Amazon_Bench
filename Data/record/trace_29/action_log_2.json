@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752376088937,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls/ZT7SY16QBDM0/ref=nav_wishlist_lists_1",
+    "target": {
+      "tagName": "SPAN",
+      "id": "wl-list-entry-title-1Y6ZQMQLQE9CM",
+      "className": "a-color-base",
+      "innerText": "My Electronics",
+      "bid": "763"
+    },
+    "action_string": "click(\"763\")",
+    "testid": "763"
+  }
+]

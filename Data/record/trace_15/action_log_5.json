@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752368844962,
+    "current_url": "https://www.amazon.com/dp/B0CHTVMXZJ?_encoding=UTF8&ref_=cct_cg_GCLPHELP_2c1&pf_rd_p=c7506b09-cf78-4697-8557-117f644a443e&pf_rd_r=ES0T153ERPKCYNC5E357&th=1",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "a-autoid-35-announce",
+      "className": "a-button-text",
+      "innerText": "$50",
+      "bid": "12435"
+    },
+    "action_string": "click(\"12435\")",
+    "testid": "12435"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752532485386,
+    "current_url": "https://www.amazon.com/hz/profilepicker/amazonfamily/member-details/amzn1.actor.person.oid.AX6LOTUTONSUG",
+    "target": {
+      "tagName": "SPAN",
+      "id": "member-card-name",
+      "className": "sc-imWYAI geJsBa",
+      "innerText": "Carlos Rivera",
+      "bid": "688"
+    },
+    "action_string": "click(\"688\")",
+    "testid": "688"
+  }
+]

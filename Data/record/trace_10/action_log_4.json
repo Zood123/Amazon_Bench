@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752366951790,
+    "current_url": "https://www.amazon.com/stores/page/D58502F6-C135-475F-A92B-876671F77A93/?_encoding=UTF8&pd_rd_plhdr=t&pd_rd_i=B0DT7P8P71&ref_=sbx_be_s_sparkle_ssd_logo&store_ref=SBV_A0022034I3Z9H6TD56Z3-A0917416104KF2L8VAOMU&lp_asins=B0DT7P8P71%2CB0D9736XQP%2CB0DT7NX496&pd_rd_w=X8VhN&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=664CMN5NQA9R9FYFRTSC&pd_rd_wg=T5rlw&pd_rd_r=fa3907b1-7256-4e46-8501-15fb367dc901",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "a-autoid-0-announce",
+      "className": "a-button-text",
+      "innerText": "Follow",
+      "bid": "814"
+    },
+    "action_string": "click(\"814\")",
+    "testid": "814"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752369410367,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "2415"
+    },
+    "action_string": "click(\"2415\")",
+    "testid": "2415"
+  }
+]

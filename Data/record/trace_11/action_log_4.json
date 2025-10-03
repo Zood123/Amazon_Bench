@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367309435,
+    "current_url": "https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button",
+    "target": {
+      "tagName": "INPUT",
+      "id": "address-ui-widgets-enterAddressPhoneNumber",
+      "className": "a-input-text address-ui-widgets-desktop-form-field-full-width addrui-form-text-input",
+      "innerText": "",
+      "bid": "1528"
+    },
+    "action_string": "click(\"1528\")",
+    "testid": "1528"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752367340950,
+    "current_url": "https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button",
+    "target": {
+      "tagName": "INPUT",
+      "id": "address-ui-widgets-enterAddressPhoneNumber",
+      "className": "a-input-text address-ui-widgets-desktop-form-field-full-width addrui-form-text-input",
+      "value": "(212) 736-3100"
+    },
+    "action_string": "fill(\"1528\", \"(212) 736-3100\")",
+    "testid": "1528"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752367341022,
+    "current_url": "https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button",
+    "target": {
+      "tagName": "DIV",
+      "id": "address-ui-widgets-enterAddressPhoneNumber-help-text",
+      "className": "a-section a-spacing-none a-spacing-top-micro address-ui-widgets-desktop-form-micro-copy",
+      "innerText": "May be used to assist delivery",
+      "bid": "1529"
+    },
+    "action_string": "click(\"1529\")",
+    "testid": "1529"
+  }
+]

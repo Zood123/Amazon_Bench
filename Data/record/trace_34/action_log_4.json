@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752392412329,
+    "current_url": "https://www.amazon.com/preferences/subscriptions/your-subscriptions/browse-all-subscriptions",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-switch-control",
+      "innerText": "",
+      "bid": "958"
+    },
+    "action_string": "click(\"958\")",
+    "testid": "958"
+  }
+]

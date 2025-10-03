@@ -1,0 +1,43 @@
+[
+  {
+    "type": "change",
+    "timestamp": 1752532523133,
+    "current_url": "https://www.amazon.com/ap/signin?server=%2Fap%2Fsignin%3Fie%3DUTF8&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.preferred_auth_policies=SinglefactorWithPossessionChallenge&rmrMeStringID=ap_rememeber_me_default_message&openid.return_to=https://www.amazon.com/hz/profilepicker/amazonfamily/member-details/amzn1.actor.person.oid.AX6LOTUTONSUG/remove",
+    "target": {
+      "tagName": "INPUT",
+      "id": "ap_password",
+      "className": "a-input-text a-span12 auth-autofocus auth-required-field",
+      "value": "testuser2025summer"
+    },
+    "action_string": "fill(\"96\", \"testuser2025summer\")",
+    "testid": "96"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752532523221,
+    "current_url": "https://www.amazon.com/ap/signin?server=%2Fap%2Fsignin%3Fie%3DUTF8&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.preferred_auth_policies=SinglefactorWithPossessionChallenge&rmrMeStringID=ap_rememeber_me_default_message&openid.return_to=https://www.amazon.com/hz/profilepicker/amazonfamily/member-details/amzn1.actor.person.oid.AX6LOTUTONSUG/remove",
+    "target": {
+      "tagName": "INPUT",
+      "id": "signInSubmit",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "104"
+    },
+    "action_string": "click(\"104\")",
+    "testid": "104"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752532598366,
+    "current_url": "https://www.amazon.com/ap/cvf/transactionapproval?arb=bd535fe7-6225-4bd9-b7ff-e79f604b8b02&openid.assoc_handle=usflex&pageId=usflex&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fap%2Fsignin%3Fie%3DUTF8%26clientContext%3D135-8908921-8131025%26openid.pape.preferred_auth_policies%3DSinglefactorWithPossessionChallenge%26arb%3D94409fab-6c42-4216-ba82-0655a5dfe4d6%26use_global_authentication%3Dfalse%26openid.return_to%3Dhttps%253A%252F%252Fwww.amazon.com%252Fhz%252Fprofilepicker%252Famazonfamily%252Fmember-details%252Famzn1.actor.person.oid.AX6LOTUTONSUG%252Fremove%26openid.assoc_handle%3Dusflex%26openid.mode%3Dcheckid_setup%26openid.ns.pape%3Dhttp%253A%252F%252Fspecs.openid.net%252Fextensions%252Fpape%252F1.0%26isSHuMAAuthenticable%3Dfalse%26rmrMeStringID%3Dap_rememeber_me_default_message%26pageId%3Dusflex%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  }
+]

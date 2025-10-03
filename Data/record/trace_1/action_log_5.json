@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752363472121,
+    "current_url": "https://www.amazon.com/Sony-WH-CH520-Headphones-Bluetooth-Microphone/dp/B0BS1RT9S2/ref=sr_1_1?crid=12UUAW2YGQ8ZY&dib=eyJ2IjoiMSJ9.A2kPY0OJcqjQ9N5sMB05VDTk1-GmAYQUIsm4hNIGIJaYYNPem9lplUBywK2ug0wD2jiFHkeVQb2hmGr3LrKeNQEpQmu3VYpiGFLYX5wZbPqWUZWN3EGTMDsPA1p2z1JeZQ_fFz9FTDhJTW5CjQFziV0IocAYiNC7Kr_Q404p4C3owYxRhPllXKX4UNmNnfK4R_Q2bs4tn8r1qGRCk_1wiNBqTCWSxXRPxWxcHCK8aJA.S9u_Z2q-r7_R_ngRR3EvIQP3sS99UNCE6l7v-ZQaLGU&dib_tag=se&keywords=Sony%2Bwireless%2Bheadphone&qid=1752363407&sprefix=sony%2Bwireless%2Bheadphone%2Caps%2C161&sr=8-1&th=1",
+    "target": {
+      "tagName": "INPUT",
+      "id": "buy-now-button",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "12263"
+    },
+    "action_string": "click(\"12263\")",
+    "testid": "12263"
+  }
+]

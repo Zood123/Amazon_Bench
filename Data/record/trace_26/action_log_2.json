@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752530296641,
+    "current_url": "https://www.amazon.com/music/player/playlists/B08BKZZ3KQ",
+    "target": {
+      "tagName": "MUSIC-VERTICAL-ITEM",
+      "id": "",
+      "className": "hydrated",
+      "innerText": "",
+      "bid": "1196"
+    },
+    "action_string": "click(\"1196\")",
+    "testid": "1196"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752389509229,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "SPAN",
+      "id": "cldd-list-name-2IA1X2M95209D",
+      "className": "a-size-small cldd-list-name a-nowrap",
+      "innerText": "Holiday Gifts",
+      "bid": "15585"
+    },
+    "action_string": "click(\"15585\")",
+    "testid": "15585"
+  }
+]

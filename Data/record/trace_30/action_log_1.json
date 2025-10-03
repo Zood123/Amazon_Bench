@@ -1,0 +1,30 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752376241434,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "nav-text",
+      "innerText": "English - EN",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752376249331,
+    "current_url": "https://www.amazon.com/?language=en_US",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "nav-line-2",
+      "innerText": "Cart",
+      "bid": "271"
+    },
+    "action_string": "click(\"271\")",
+    "testid": "271"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367149886,
+    "current_url": "https://www.amazon.com/a/addresses?ref_=ya_d_c_addr",
+    "target": {
+      "tagName": "A",
+      "id": "ya-myab-address-delete-btn-3",
+      "className": "a-link-normal delete-link",
+      "innerText": "Remove",
+      "bid": "1450"
+    },
+    "action_string": "click(\"1450\")",
+    "testid": "1450"
+  }
+]

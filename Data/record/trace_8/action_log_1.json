@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752366270849,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "innerText": "",
+      "bid": "242"
+    },
+    "action_string": "click(\"242\")",
+    "testid": "242"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752366313717,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "value": "Nintendo Switch Console "
+    },
+    "action_string": "fill(\"242\", \"Nintendo Switch Console \")",
+    "testid": "242"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752366313819,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "nav-xshop",
+      "className": "nav-progressive-content",
+      "innerText": "Amazon Haul Same-Day Delivery Medical Care Saks Amazon Basics New Releases Best Sellers Groceries Music Livestreams Today's Deals Luxury Stores Customer Service Prime Video Gift Cards Gift Shop Keep Shopping For Registry Buy Again Handmade Audible Beauty & Personal Care Shop By Interest Home Improvement Pharmacy Sell Fashion Automotive Smart Home Amazon Home",
+      "bid": "553"
+    },
+    "action_string": "click(\"553\")",
+    "testid": "553"
+  }
+]

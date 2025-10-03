@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752393204996,
+    "current_url": "https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "",
+      "innerText": "Your Shopping preferences",
+      "bid": "885"
+    },
+    "action_string": "click(\"885\")",
+    "testid": "885"
+  }
+]

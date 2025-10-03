@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752389218815,
+    "current_url": "https://www.amazon.com/-/es/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "3250"
+    },
+    "action_string": "click(\"3250\")",
+    "testid": "3250"
+  }
+]

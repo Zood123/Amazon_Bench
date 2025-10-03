@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752445524800,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "A",
+      "id": "addProtectionLink",
+      "className": "a-size-base a-link-normal",
+      "innerText": "Add protection",
+      "bid": "15243"
+    },
+    "action_string": "click(\"15243\")",
+    "testid": "15243"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752368802780,
+    "current_url": "https://www.amazon.com/b/?_encoding=UTF8&ie=UTF8&node=2238192011&ref_=US_GC_EVG_GW_DCCard_0125&pd_rd_w=KrH4F&content-id=amzn1.sym.d7ade4c0-b97c-45a3-b77b-cfd356b4542d&pf_rd_p=d7ade4c0-b97c-45a3-b77b-cfd356b4542d&pf_rd_r=85WT24E919FQ3T2NYHHY&pd_rd_wg=irMPl&pd_rd_r=eb7e359e-4f4c-4474-a5d4-b679b0a53f01",
+    "target": {
+      "tagName": "IMG",
+      "id": "",
+      "className": "",
+      "innerText": "",
+      "bid": "1191"
+    },
+    "action_string": "click(\"1191\")",
+    "testid": "1191"
+  }
+]

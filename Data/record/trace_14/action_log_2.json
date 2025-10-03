@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752368141410,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "nav-search-submit-button",
+      "className": "nav-input nav-progressive-attribute",
+      "innerText": "",
+      "bid": "3516"
+    },
+    "action_string": "click(\"3516\")",
+    "testid": "3516"
+  }
+]

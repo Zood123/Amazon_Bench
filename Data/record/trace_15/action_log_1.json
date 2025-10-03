@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752368796103,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-normal _fluid-fat-image-link-v2_singleLinkStyle_bodyFooterLink__9LvH0",
+      "innerText": "Shop all gift cards Shop all gift cards",
+      "bid": "1037"
+    },
+    "action_string": "click(\"1037\")",
+    "testid": "1037"
+  }
+]

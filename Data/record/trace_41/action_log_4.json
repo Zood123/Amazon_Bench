@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752534104344,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAACUmA%2FPBIE2t9O2aPNZDGM%2FQAAAAAAAAAA7SvFu2w5XxbMPGmyNTJaah13c5bnOTIyMFX9nLV8ffwLXQuPMWijW7W4W%2F1bXwpfpujtMWi%2BbIztiar998s0W&qap=",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "attribute-action",
+      "innerText": "Edit",
+      "bid": "2229"
+    },
+    "action_string": "click(\"2229\")",
+    "testid": "2229"
+  }
+]

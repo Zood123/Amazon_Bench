@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752376352837,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls/1Y6ZQMQLQE9CM?ref_=list_d_wl_lfu_nav_3",
+    "target": {
+      "tagName": "A",
+      "id": "editYourList",
+      "className": "a-link-normal editYourListTrigger",
+      "innerText": "Manage list",
+      "bid": "810"
+    },
+    "action_string": "click(\"810\")",
+    "testid": "810"
+  }
+]

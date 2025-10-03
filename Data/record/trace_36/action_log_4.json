@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752393258120,
+    "current_url": "https://www.amazon.com/hz/follow/follows?ref_=ph_follows",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "pr-fb-text",
+      "innerText": "Following",
+      "bid": "907"
+    },
+    "action_string": "click(\"907\")",
+    "testid": "907"
+  }
+]

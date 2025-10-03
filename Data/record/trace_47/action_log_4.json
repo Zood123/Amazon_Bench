@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752531794471,
+    "current_url": "https://www.amazon.com/hz/profilepicker/amazonfamily/member-details/amzn1.actor.person.oid.AX6LOTUTONSUG",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "2792"
+    },
+    "action_string": "click(\"2792\")",
+    "testid": "2792"
+  }
+]

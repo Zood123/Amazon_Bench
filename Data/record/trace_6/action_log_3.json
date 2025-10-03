@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752364923840,
+    "current_url": "https://www.amazon.com/s?k=sony+wireless+headphone&crid=W6T2K6YP2HR1&sprefix=sony+wireless+headphone%2Caps%2C160&ref=nb_sb_noss_2",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "a-autoid-3-announce",
+      "className": "a-button-text",
+      "innerText": "Add to cart",
+      "bid": "1635"
+    },
+    "action_string": "click(\"1635\")",
+    "testid": "1635"
+  }
+]

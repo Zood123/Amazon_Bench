@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752531809687,
+    "current_url": "https://www.amazon.com/hz/profilepicker/amazonfamily/member-details/amzn1.actor.person.oid.AX6LOTUTONSUG",
+    "target": {
+      "tagName": "SPAN",
+      "id": "amazon-family_vbeqyId",
+      "className": "a-declarative",
+      "innerText": "",
+      "bid": "4898"
+    },
+    "action_string": "click(\"4898\")",
+    "testid": "4898"
+  }
+]

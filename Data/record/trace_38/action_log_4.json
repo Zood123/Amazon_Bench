@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752431978523,
+    "current_url": "https://www.amazon.com/fanshop?ref_=ph_fs",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "a-truncate-cut",
+      "innerText": "NBA",
+      "bid": "945"
+    },
+    "action_string": "click(\"945\")",
+    "testid": "945"
+  }
+]

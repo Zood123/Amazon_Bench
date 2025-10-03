@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367874691,
+    "current_url": "https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang",
+    "target": {
+      "tagName": "I",
+      "id": "",
+      "className": "a-icon a-icon-radio",
+      "innerText": "",
+      "bid": "1128"
+    },
+    "action_string": "click(\"1128\")",
+    "testid": "1128"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752367874693,
+    "current_url": "https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "",
+      "innerText": "",
+      "bid": "1127"
+    },
+    "action_string": "click(\"1127\")",
+    "testid": "1127"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752367874695,
+    "current_url": "https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "",
+      "value": "es_US"
+    },
+    "action_string": "fill(\"1127\", \"es_US\")",
+    "testid": "1127"
+  }
+]

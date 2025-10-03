@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752431995209,
+    "current_url": "https://www.amazon.com/fanshop/nba/chicago-bulls?ref_=slls_nba_tp_d",
+    "target": {
+      "tagName": "BUTTON",
+      "id": "pcip-team-banner-follow-button-46f6982a74e4449e85ad4c64f765e391-announce",
+      "className": "a-button-text",
+      "innerText": "",
+      "bid": "916"
+    },
+    "action_string": "click(\"916\")",
+    "testid": "916"
+  }
+]

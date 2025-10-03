@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752364000853,
+    "current_url": "https://www.amazon.com/s?k=white+nike+shoes+for+men&crid=XQASYBFI8UR2&sprefix=white+nike+shoes+for+men%2Caps%2C161&ref=nb_sb_noss_1",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "",
+      "innerText": "Men's Air Force 1'07 Shoes Basketball",
+      "bid": "1141"
+    },
+    "action_string": "click(\"1141\")",
+    "testid": "1141"
+  }
+]

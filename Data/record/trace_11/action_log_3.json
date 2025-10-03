@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367299632,
+    "current_url": "https://www.amazon.com/a/addresses?ref_=ya_d_c_addr",
+    "target": {
+      "tagName": "DIV",
+      "id": "ya-myab-plus-address-icon",
+      "className": "a-section a-spacing-none address-plus-icon aok-inline-block",
+      "innerText": "",
+      "bid": "1128"
+    },
+    "action_string": "click(\"1128\")",
+    "testid": "1128"
+  }
+]

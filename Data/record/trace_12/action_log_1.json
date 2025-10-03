@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752367686374,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "nav-join-prime-text",
+      "className": "nav-join-prime-text",
+      "innerText": "Join Prime",
+      "bid": "547"
+    },
+    "action_string": "click(\"547\")",
+    "testid": "547"
+  }
+]

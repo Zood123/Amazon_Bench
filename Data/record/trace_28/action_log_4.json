@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752532502602,
+    "current_url": "https://www.amazon.com/hz/profilepicker/amazonfamily/member-details/amzn1.actor.person.oid.AX6LOTUTONSUG",
+    "target": {
+      "tagName": "A",
+      "id": "member-details-remove-amazon-family-button",
+      "className": "sc-cyRcrZ cdEjDj",
+      "innerText": "Remove Carlos Rivera from your Amazon Family",
+      "bid": "2669"
+    },
+    "action_string": "click(\"2669\")",
+    "testid": "2669"
+  }
+]

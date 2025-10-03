@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752446015704,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-color-link",
+      "innerText": "",
+      "bid": "11091"
+    },
+    "action_string": "click(\"11091\")",
+    "testid": "11091"
+  }
+]

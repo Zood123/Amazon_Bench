@@ -1,0 +1,30 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752368855634,
+    "current_url": "https://www.amazon.com/dp/B0CHTVMXZJ?_encoding=UTF8&ref_=cct_cg_GCLPHELP_2c1&pf_rd_p=c7506b09-cf78-4697-8557-117f644a443e&pf_rd_r=ES0T153ERPKCYNC5E357&th=1",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-button-input",
+      "innerText": "",
+      "bid": "17636"
+    },
+    "action_string": "click(\"17636\")",
+    "testid": "17636"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752368856613,
+    "current_url": "https://www.amazon.com/dppui/pay-select?asin=B086KKT3RX&clientId=autoreload&preferenceType=GCAutoreload&actionType=Subscribe&transactionContext=Subscribe&autoReloadType=THRESHOLD&displayedPrice=50.0&displayedPriceCurrency=USD&frequency=&thresholdAmount=20.0&_token=g0Yv8a49%2FOWgxZhATeBt%2FGO0%2B2DN3NRUibwUQP2oHkDmAAAADAAAAABocwbXcmF3AAAAABVX8CwXqz4nuL9RKX%2F%2F%2Fw%3D%3D&clientReference=ar%3AATVPDKIKX0DER%24A23WNJ5IPMGRVN&destinationPath=%2Fapi%2Fbifrost%2Facquisitions%2Fv1%2Fasins%2FB086KKT3RX%3Fx-client-id%3Dauto-reload%26items%255B0%255D.action.actionType%3DSubscribe%26csrf%3Dg9ye2l3jq5qIFTIYUqigfbIjib%252BwfrbPws%252BR8VVD%252FA5iAAAAAQAAAABocwarcmF3AAAAAKs%252BFBXVfD4nuL9rqj%252BgAw%253D%253D",
+    "target": {
+      "tagName": "INPUT",
+      "id": "add-new-generic-card-radio-button",
+      "className": "",
+      "innerText": "",
+      "bid": "no_bid"
+    },
+    "action_string": "click(\"no_bid\")",
+    "testid": "no_bid"
+  }
+]

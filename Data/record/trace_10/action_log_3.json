@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752366940091,
+    "current_url": "https://www.amazon.com/s?k=Coach+Store&crid=CB3UIJ50OC0D&sprefix=coach+store%2Caps%2C156&ref=nb_sb_noss_1",
+    "target": {
+      "tagName": "IMG",
+      "id": "",
+      "className": "",
+      "innerText": "",
+      "bid": "1414"
+    },
+    "action_string": "click(\"1414\")",
+    "testid": "1414"
+  }
+]

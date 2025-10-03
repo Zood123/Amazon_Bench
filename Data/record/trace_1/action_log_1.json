@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752363380145,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "innerText": "",
+      "bid": "242"
+    },
+    "action_string": "click(\"242\")",
+    "testid": "242"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752363397543,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "value": "Sony wireless headphone"
+    },
+    "action_string": "fill(\"242\", \"Sony wireless headphone\")",
+    "testid": "242"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752363397668,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "",
+      "className": "nav-div",
+      "innerText": "New Releases",
+      "bid": "574"
+    },
+    "action_string": "click(\"574\")",
+    "testid": "574"
+  }
+]

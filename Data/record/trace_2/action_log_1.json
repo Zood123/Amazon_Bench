@@ -1,0 +1,43 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752363931818,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "innerText": "",
+      "bid": "244"
+    },
+    "action_string": "click(\"244\")",
+    "testid": "244"
+  },
+  {
+    "type": "change",
+    "timestamp": 1752363945754,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "INPUT",
+      "id": "twotabsearchtextbox",
+      "className": "nav-input nav-progressive-attribute",
+      "value": "white nike shoes for men"
+    },
+    "action_string": "fill(\"244\", \"white nike shoes for men\")",
+    "testid": "244"
+  },
+  {
+    "type": "click",
+    "timestamp": 1752363945844,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "DIV",
+      "id": "nav-xshop",
+      "className": "nav-progressive-content",
+      "innerText": "Amazon Haul Same-Day Delivery Medical Care Saks Amazon Basics New Releases Best Sellers Groceries Music Livestreams Today's Deals Luxury Stores Customer Service Prime Video Gift Cards Gift Shop Keep Shopping For Registry Buy Again Handmade Audible Beauty & Personal Care Shop By Interest Home Improvement Pharmacy Sell Fashion Automotive Smart Home Amazon Home",
+      "bid": "717"
+    },
+    "action_string": "click(\"717\")",
+    "testid": "717"
+  }
+]

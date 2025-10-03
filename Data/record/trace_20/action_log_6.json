@@ -1,0 +1,15 @@
+[
+  {
+    "type": "change",
+    "timestamp": 1752529570787,
+    "current_url": "https://www.amazon.com/hz/profilepicker/amazonfamily/members/add-member/adult/profile",
+    "target": {
+      "tagName": "TEXTAREA",
+      "id": "enterProfileName",
+      "className": "sc-jaXxmE eVCFkn",
+      "value": "Carlos Rivera"
+    },
+    "action_string": "fill(\"8438\", \"Carlos Rivera\")",
+    "testid": "8438"
+  }
+]

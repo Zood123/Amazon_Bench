@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752364572965,
+    "current_url": "https://www.amazon.com/gp/cart/view.html?ref_=nav_cart",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-normal ssf-share-trigger aok-align-center sc-suppress-saved-optimistic-rendering",
+      "innerText": "Share",
+      "bid": "1408"
+    },
+    "action_string": "click(\"1408\")",
+    "testid": "1408"
+  }
+]

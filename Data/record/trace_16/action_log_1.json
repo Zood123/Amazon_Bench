@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752369220618,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "SPAN",
+      "id": "nav-cart-count",
+      "className": "nav-cart-count nav-cart-1 nav-progressive-attribute nav-progressive-content",
+      "innerText": "5",
+      "bid": "271"
+    },
+    "action_string": "click(\"271\")",
+    "testid": "271"
+  }
+]

@@ -1,0 +1,3 @@
+{
+  "AXTree": "RootWebArea 'Authentication required', focused\n\t[25] link 'Amazon'\n\t\t[26] image 'Amazon'\n\t[34] Section ''\n\t\t[41] heading 'Verify your number'\n\t\tStaticText '+18148148888'\n\t\t[44] link 'Change'\n\t\tStaticText 'To make sure only you and authorized users can access your profile, enter the security code we sent you.'\n\t\t[48] LabelText ''\n\t\t\tStaticText 'Enter security code'\n\t\t[50] textbox 'Enter security code', focused\n\t\t[53] button 'Verify OTP Button'\n\t\t\tStaticText 'code'\n\t\t[58] link 'Resend code'\n\t\t[60] link 'Cancel'\n\t[85] link 'Conditions of Use'\n\t[87] link 'Privacy Notice'\n\t[89] link 'Help'\n\tStaticText '\u00a9 1996-2025, Amazon.com, Inc. or its affiliates'"
+}

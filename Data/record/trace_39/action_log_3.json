@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752533325941,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAACUmA%2FPBIE2t9O2aPNZDGM%2FQAAAAAAAAABET48%2FemT76v3DAaj%2BLpprvmnzgxcV%2B863LR3%2F3nxvYBE0DcxSfsrLGhnAf%2BWhO%2BTFsf77Bu4DPvjChKw5pqFL&qap=",
+    "target": {
+      "tagName": "DIV",
+      "id": "",
+      "className": "pill-content selected",
+      "innerText": "Chicago Bulls",
+      "bid": "955"
+    },
+    "action_string": "click(\"953\")",
+    "testid": "955"
+  }
+]

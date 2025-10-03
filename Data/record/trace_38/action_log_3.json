@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752431969826,
+    "current_url": "https://www.amazon.com/slc/hub?ref_=ya_d_l_slph&encodedActorId=AAAAAAAAAADR6rK7zJd1nWXTzt3W87FBQAAAAAAAAABrycoGYzUnfnvN04UQLIiqkwSsrQ8UTHt9iqvUNHLWriLtPMku0x83Ofbsrglwspc5ZPilcYHYvY3W%2Fb%2BYtb7B&qap=",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "a-link-emphasis ingress-link desktop",
+      "innerText": "Explore Amazon Fan Shop",
+      "bid": "1206"
+    },
+    "action_string": "click(\"1206\")",
+    "testid": "1206"
+  }
+]

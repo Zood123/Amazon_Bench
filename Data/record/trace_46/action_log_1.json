@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752447881252,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "SPAN",
+      "id": "",
+      "className": "nav-line-2 ",
+      "innerText": "Account & Lists",
+      "bid": "264"
+    },
+    "action_string": "click(\"264\")",
+    "testid": "264"
+  }
+]

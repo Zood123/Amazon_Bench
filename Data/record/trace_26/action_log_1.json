@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752530275305,
+    "current_url": "https://www.amazon.com/",
+    "target": {
+      "tagName": "A",
+      "id": "",
+      "className": "nav-a  ",
+      "innerText": "Music",
+      "bid": "634"
+    },
+    "action_string": "click(\"634\")",
+    "testid": "634"
+  }
+]

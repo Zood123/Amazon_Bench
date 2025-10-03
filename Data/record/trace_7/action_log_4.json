@@ -1,0 +1,16 @@
+[
+  {
+    "type": "click",
+    "timestamp": 1752365125658,
+    "current_url": "https://www.amazon.com/hz/wishlist/ls?ref_=nav_ListFlyout_navFlyout_createList_lv_redirect",
+    "target": {
+      "tagName": "INPUT",
+      "id": "",
+      "className": "a-button-input a-declarative",
+      "innerText": "",
+      "bid": "7085"
+    },
+    "action_string": "click(\"7085\")",
+    "testid": "7085"
+  }
+]

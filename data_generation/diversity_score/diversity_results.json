@@ -1,0 +1,42 @@
+{
+  "Other": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.5594452619552612
+  },
+  "User / Account": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.23644456267356873
+  },
+  "Reviews": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.12047504633665085
+  },
+  "Product List / Search": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.33831608295440674
+  },
+  "Deal": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.38885530829429626
+  },
+  "Product Page": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.27517688274383545
+  },
+  "Best Sellers / New Releases": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.4627816379070282
+  },
+  "Offer Listing": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.3624517619609833
+  },
+  "Media": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.3688257038593292
+  },
+  "Stores and Shops": {
+    "n_pages": 10,
+    "avg_dissimilarity": 0.20496483147144318
+  }
+}

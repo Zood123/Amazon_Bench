@@ -1,0 +1,270 @@
+{
+  "Other": [
+    {
+      "https://www.amazon.com/privacyprefs": [
+        "Opt out of cross-context behavioral ads on Amazon by changing my preferences on the Your Ads Privacy Choices page.",
+        "Save my preferences after opting out of cross-context behavioral ads on Amazon.",
+        "Learn more about my privacy rights by visiting the link provided on the Your Ads Privacy Choices page.",
+        "Check the interest-based ads page linked on the Your Ads Privacy Choices page to get more information about how Amazon delivers relevant ads.",
+        "Sign in to my Amazon account to ensure my ad preferences are recognized across different devices and browsers."
+      ]
+    },
+    {
+      "https://www.amazon.com/Best-Sellers-Home-Kitchen-Home-Storage-Organization/zgbs/home-garden/3610841": [
+        "Show me the top 5 best-selling items in the Home Storage & Organization category on Amazon.",
+        "Can you open the 'Baskets, Bins & Containers' section under Home Storage & Organization best sellers?",
+        "Navigate to the 'Gift Wrap Storage' category in the Best Sellers list and tell me the top-ranked item.",
+        "Find the price and ratings for the #1 best seller in the Home Storage & Organization category.",
+        "Show me the top-rated product in the 'Laundry Storage & Organization' section of the best sellers.",
+        "Go to the 'Jewelry Boxes & Organizers' best sellers and add the first item to my cart.",
+        "Check the reviews for the 'Owala FreeSip Insulated Stainless Steel Water Bottle' that's listed as a best seller.",
+        "Navigate to the 'Office Storage & Organization' category and tell me the price of the most popular item there.",
+        "Open the 'New Releases in Home Storage & Organization' section and list the first three products.",
+        "Find and display the 'Most Wished For in Home Storage & Organization' list."
+      ]
+    }
+  ],
+  "User / Account": [
+    {
+      "https://www.amazon.com/gp/coins/account": [
+        "Sign in to my Amazon account using the email address john.doe@example.com.",
+        "Create a new Amazon account with the email address jane.doe@example.com and a secure password.",
+        "I forgot my password; can you help me reset it using my registered email john.doe@example.com?",
+        "Review the Conditions of Use and Privacy Notice before I sign in to my Amazon account.",
+        "Register a new Amazon account and agree to the Conditions of Use and Privacy Notice."
+      ]
+    },
+    {
+      "https://www.amazon.com/gp/browse": [
+        "Find a book about training dogs on Amazon and add it to my cart.",
+        "Search for the latest Kindle device on Amazon and check if it's eligible for Prime shipping.",
+        "Go to the Dogs of Amazon page and browse through the images of dogs featured by Amazon.",
+        "Search for a replacement power adapter for my Amazon Echo device.",
+        "Visit Amazon's homepage and look for today's deals on electronics.",
+        "Go to Amazon's help section and find information about returning a damaged item.",
+        "Search for a coffee maker on Amazon and filter the results to show only products with at least four stars.",
+        "Check the Amazon website for any available coupons or discounts for pet products.",
+        "Go to the Amazon homepage and look for recommendations based on my previous purchases.",
+        "Search for a new thriller novel and add the one with the best reviews to my wish list."
+      ]
+    }
+  ],
+  "Reviews": [
+    {
+      "https://www.amazon.com/gp/customer-reviews/R2SOP6CVFMU1IK": [
+        "Show me how to mark Sharon Boswell's review as helpful for the Prime Store Card.",
+        "Find the detailed rating breakdown for the Amazon Store Card and show the percentage of 5-star ratings.",
+        "Visit the profile page of Sharon Boswell to see her other reviews.",
+        "Provide a permalink to Sharon Boswell's review of the Prime Store Card so I can share it with my friends.",
+        "Report the review by Sharon Boswell for inappropriate content.",
+        "Explain how I can verify if a purchase is a 'Verified Purchase' on Amazon.",
+        "Navigate to the product page of the Amazon Store Card from the review page.",
+        "Show me the 'See All Buying Options' page for the Amazon Store Card.",
+        "Filter the Amazon Store Card reviews to show only 1-star ratings."
+      ]
+    },
+    {
+      "https://www.amazon.com/product-reviews/B0F2PFPZCJ": [
+        "Filter the reviews for the CakePopPro Circle Cake Pop Mold Set to show only 5-star ratings.",
+        "Write a review for the CakePopPro Circle Cake Pop Mold Set, mentioning how it helped you make perfect cake pops.",
+        "Sort the reviews for the CakePopPro Circle Cake Pop Mold Set by the most recent.",
+        "Filter the reviews to show only those with verified purchases for the CakePopPro Circle Cake Pop Mold Set.",
+        "Mark the review by \"timmitalks\" as helpful on the CakePopPro Circle Cake Pop Mold Set reviews page.",
+        "Report the review by \"Janae\" on the CakePopPro Circle Cake Pop Mold Set reviews page.",
+        "Go to the CakePopPro Circle Cake Pop Mold Set product page through the link in the reviews section.",
+        "Check the customer image uploaded by \"Elysia\" for the CakePopPro Circle Cake Pop Mold Set.",
+        "View all reviews for the CakePopPro Circle Cake Pop Mold Set from the United States only.",
+        "Filter the reviews to show only those with images and videos for the CakePopPro Circle Cake Pop Mold Set."
+      ]
+    }
+  ],
+  "Product List / Search": [
+    {
+      "https://www.amazon.com/Furniture/b/node=1063306": [
+        "Search for a sofa in the Furniture category and filter the results by price to show items under $500.",
+        "Explore the Furniture section and find a sectional sofa from the \"Shop our top categories\" carousel, then add it to my wishlist.",
+        "Visit the \"New arrivals\" section on the Furniture page and bookmark a new bed frame for my bedroom.",
+        "Go to the \"Shop by room\" section and find furniture suitable for a home office, then check its availability for delivery to ZIP code 97818.",
+        "Navigate to the \"Featured deals\" section and add a discounted mattress with at least 20% off to my shopping cart.",
+        "Search for an ergonomic office chair within the Furniture category and filter the results to show only products with free shipping.",
+        "Access the \"Shop popular brands\" section, open the Zinus brand page, and look for a bed frame with a high customer rating."
+      ]
+    },
+    {
+      "https://www.amazon.com/b/node=2972638011": [
+        "Search for a patio heater in the 'Garden & Outdoor' category and add the one with the highest rating to my cart.",
+        "Find a lawn mower in the 'Mowers & Tractors' section and check for any available discounts or deals.",
+        "Go to the 'Outdoor Furniture' section and filter the results to show only items that are eligible for Prime shipping.",
+        "Navigate to the 'Garden Tools' category and add the first item listed to my wish list named 'Gardening Essentials'.",
+        "Browse the 'Fire Pits & Fireplaces' section and save the product with the most reviews to my shopping cart.",
+        "Check the 'New Arrivals' in the 'Garden & Outdoor' category and send me a link to the most popular item.",
+        "Open the 'Shop our top categories' section and explore the 'Pest Control' products, then add the most affordable option to my cart.",
+        "Visit the 'Featured Deals' section and find the best deal on a solar generator, adding it to my cart.",
+        "Explore the 'Pool & Spa Supplies' category and add a pool cleaner with at least a 4-star rating to my cart.",
+        "Go to the 'Explore more categories' section and find a bird feeder, then add it to my wish list named 'Garden D\u00e9cor'."
+      ]
+    }
+  ],
+  "Deal": [
+    {
+      "https://www.amazon.com/events/devicedeals": [
+        "Browse the \"Device Deals on Kindle, Fire TV, Ring Doorbell & More\" page and add a Kindle Paperwhite that's on sale to my cart.",
+        "Filter the device deals to only show Amazon Devices & Accessories and let me know the top three deals available.",
+        "On the Device Deals page, find a deal on an Amazon eero mesh wifi system and check the available colors.",
+        "Look for the best Smart TV deals on the Device Deals page and inform me of any that are 30% off or more.",
+        "Find and add a Like-New Amazon Kindle Paperwhite to my cart from the Device Deals page.",
+        "Check the Device Deals page for any available deals on Alexa smart home devices and provide details on the top two discounts.",
+        "Browse the available deals on Amazon Fire tablets and let me know if there are any limited-time offers.",
+        "Use the price slider on the Device Deals page to filter deals between $50 and $200 and provide a summary of the offers.",
+        "Search for deals on Amazon Fire TV Soundbars and add the best deal to my cart.",
+        "Look for any deals on Amazon Smart Thermostats on the Device Deals page and let me know the highest discount available."
+      ]
+    },
+    {
+      "https://www.amazon.com/stores/page/7B18FACC-DCB8-4735-B4AC-CDE16CD147DD/deals": [
+        "Go to the Levi's Deals page on Amazon and add the Men's 511 Slim Tech Pants to my cart.",
+        "Navigate to the Levi's store on Amazon and find the Women's 724 High Rise Straight Jeans, then view the Quick Look for more details.",
+        "Locate the Levi's Men's Graphic Tee on the deals page and add the item to my wish list.",
+        "Visit the Levi's store on Amazon and follow the store to get updates on new deals and promotions.",
+        "Search for Levi's Women's Perfect Crewneck Tee on the deals page and check if it's eligible for Prime shipping.",
+        "Go to the Levi's store and check out the Big & Tall section for any new arrivals.",
+        "Use the search feature within the Levi's store to find all items related to \"kids\" clothing.",
+        "Share the Levi's store link with a friend using the Share button on the page.",
+        "Go to the Levi's store, select the Women's section, and explore the available deals.",
+        "Visit the Levi's store and navigate to the Best Sellers section to see the top-selling products."
+      ]
+    }
+  ],
+  "Product Page": [
+    {
+      "https://www.amazon.com/dp/B004QREOPU": [
+        "Add the K9 Advantix II XL Dog Vet-Recommended Flea, Tick & Mosquito Treatment & Prevention for Dogs Over 55 lbs. with a 4-Month Supply to my cart.",
+        "Go to the K9 Advantix Store and check out their product offerings.",
+        "Set a subscription for K9 Advantix II XL Dog Vet-Recommended Flea, Tick & Mosquito Treatment & Prevention to deliver every month.",
+        "Filter the customer reviews for the K9 Advantix II XL Dog product to show only 1-star reviews.",
+        "Change the quantity of the K9 Advantix II XL Dog treatment in my cart to 3.",
+        "Find the product details section for K9 Advantix II XL Dog and check the shipping weight.",
+        "Check the 'Frequently Bought Together' section and add all items to my cart.",
+        "Look at the product images for K9 Advantix II XL Dog Vet-Recommended Flea, Tick & Mosquito Treatment and view the full-size version.",
+        "Go to the 'Videos for similar products' section and watch a video on applying K9 Advantix II Medium Dog Treatment.",
+        "Report an issue with the product K9 Advantix II XL Dog for not being as described."
+      ]
+    },
+    {
+      "https://www.amazon.com/dp/B004QMX4YW": [
+        "Add the K9 Advantix II Large Dog Vet-Recommended Flea, Tick & Mosquito Treatment | Dogs 21 - 55 lbs. | 4-Mo Supply to my cart.",
+        "Purchase the K9 Advantix II Large Dog Vet-Recommended Flea, Tick & Mosquito Treatment for immediate delivery tomorrow by joining Amazon Prime.",
+        "Subscribe to the K9 Advantix II treatment to save 5% and ensure monthly delivery.",
+        "Check the reviews for the K9 Advantix II Large Dog treatment and filter to show only 1-star ratings.",
+        "View all images and videos for the K9 Advantix II Large Dog treatment to see customer photos and product demonstrations.",
+        "Explore bundles available with the K9 Advantix II Large Dog treatment and add the most cost-effective bundle to my cart.",
+        "Change the quantity of the K9 Advantix II treatment to 3 and add to my shopping cart.",
+        "Report an issue with the K9 Advantix II Large Dog treatment or its seller.",
+        "Navigate to the 'About this item' section on the K9 Advantix II Large Dog treatment page for more detailed product information.",
+        "Write a customer review for the K9 Advantix II Large Dog treatment, sharing your thoughts on its effectiveness and ease of use."
+      ]
+    }
+  ],
+  "Best Sellers / New Releases": [
+    {
+      "https://www.amazon.com/gp/new-releases/amazon-devices/370783011": [
+        "Show me the top new release in Amazon Device Accessories and add it to my cart.",
+        "Find the Amazon Fire TV Alexa Voice Remote and check its customer reviews.",
+        "Go to the New Releases in Amazon Device Accessories and purchase the Blink Outdoor 4 XR camera system.",
+        "Look for an antiglare screen protector for the Kindle Paperwhite and add it to my wishlist.",
+        "Navigate to the Amazon Device Accessories category and show me the best-selling item."
+      ]
+    },
+    {
+      "https://www.amazon.com/gp/new-releases/baby-products/166835011": [
+        "Browse the new releases in Child Safety Car Seats & Accessories and add the top-ranked item to my cart.",
+        "Check the reviews for the \"KAFANLIN Car Seat Gap Filler Organizer\" and read the 1-star reviews.",
+        "Find a \"Baby Car Mirror with Light\" and watch its video demonstration.",
+        "Navigate to the \"Most Wished For in Child Safety Car Seats & Accessories\" section and find an item with a 5-star rating.",
+        "Go to the \"Gift Ideas in Child Safety Car Seats & Accessories\" and add the first item to my wish list.",
+        "Filter the new releases to show only \"Car Seat Bases\" and add the most expensive one to my cart.",
+        "Compare the prices of the top three items in the \"New Releases in Child Safety Car Seats & Accessories\" and add the cheapest one to my watchlist.",
+        "Search for \"Infant Car Seat Insert Cushion\" in the Baby category and sort the results by customer rating.",
+        "Add the \"AMACOOL Baby Stroller Cooling Pad\" to my cart and proceed to checkout.",
+        "Go to the \"Accessories\" category under Baby Products and find a product that is under $20."
+      ]
+    }
+  ],
+  "Offer Listing": [
+    {
+      "https://www.amazon.com/gp/offer-listing/B01BUNHFAS": [
+        "Add the OxiClean Odor Blasters Versatile Odor and Stain Remover Powder, 5 lb from Amazon.com to my cart.",
+        "Compare the prices and shipping options for the OxiClean Odor Blasters from different sellers and add the lowest priced option to my cart.",
+        "Show me more details about the delivery costs and shipping methods for the OxiClean product from the seller Humes & Townsend Retail LLC.",
+        "Filter the reviews of the OxiClean Odor Blasters product to show only 5-star ratings.",
+        "Redeem the $15 savings code STOCKUPSAVE when purchasing $50 of select items, including the OxiClean Odor Blasters.",
+        "Sign in to my Amazon account to see if I can redeem any additional discounts on the OxiClean Odor Blasters Versatile Odor and Stain Remover Powder.",
+        "Add the \u201cFrequently Bought Together\u201d bundle with OxiClean Odor Blasters, OxiClean White Revive Laundry Whitener, and ARM & HAMMER Super Washing Soda to my cart.",
+        "Sign me up for Amazon Prime to get fast, free shipping on the OxiClean Odor Blasters product.",
+        "Write a review for the OxiClean Odor Blasters product focusing on its effectiveness as an odor remover."
+      ]
+    },
+    {
+      "https://www.amazon.com/gp/offer-listing/B0DH9CPP1V": [
+        "Please add the hardcover edition of \"Hang On St. Christopher (The Sean Duffy Series)\" to my cart from the seller Amazon.com at $22.10.",
+        "Find the used book option from seller Bay State Book Company and add it to my cart for $17.52.",
+        "Subscribe to Amazon Prime to take advantage of free shipping on this offer.",
+        "Filter the offers for \"Hang On St. Christopher\" to show the lowest price first.",
+        "Check the delivery options and shipping costs for the seller MegaReads.",
+        "Add the \"Frequently Bought Together\" bundle that includes \"Galway's Edge\" and \"Nightshade\" to my cart.",
+        "Find and read the sample for \"Hang On St. Christopher\" on the product page.",
+        "Check the product details for \"Hang On St. Christopher\" to see the publication date and print length.",
+        "Add \"The Cold Cold Ground (The Sean Duffy Series)\" from the \"Frequently purchased items with fast delivery\" section to my cart.",
+        "Report an issue with the product or seller for \"Hang On St. Christopher\" on the product page."
+      ]
+    }
+  ],
+  "Corporate / Investor Relations": [],
+  "Media": [
+    {
+      "https://www.amazon.com/gp/bestsellers/books/227688": [
+        "Navigate to the Emergency Medicine Best Sellers page and add the top-ranked book to my cart.",
+        "Go to the Emergency Medicine Best Sellers page and check the price of \"The Survival Medicine Handbook.\"",
+        "On the Emergency Medicine Best Sellers page, find the \"Emergency Medical Responder\" book and read its reviews.",
+        "Visit the Emergency Medicine Best Sellers page and list the top 3 books available in paperback format.",
+        "On the Emergency Medicine Best Sellers page, find the \"Emergency Care and Transportation of the Sick and Injured\" package and add it to my wish list.",
+        "Head to the Emergency Medicine Best Sellers section and find a book by the American Academy of Orthopaedic Surgeons to view more details.",
+        "Go to the Emergency Medicine Best Sellers page and filter the results to show only Kindle editions.",
+        "Look up \"Tintinalli's Emergency Medicine\" on the Emergency Medicine Best Sellers page and check its rating.",
+        "Find the list of books under the \"Most Wished For in Emergency Medicine\" section and add the first one to my cart.",
+        "On the Emergency Medicine Best Sellers page, find a book by Joseph Alton MD and add it to my book recommendations list."
+      ]
+    },
+    {
+      "https://www.amazon.com/music/player/albums/B0DJ43LP2X": [
+        "Navigate to the Amazon Music page and play the album associated with the URL: https://www.amazon.com/music/player/albums/B0DJ43LP2X.",
+        "Use the search function on the specified Amazon Music page to find albums by the artist \"Taylor Swift\" and view the available options.",
+        "Go to the Amazon Music page and download the album from the provided link for offline listening.",
+        "Access the Amazon Music page and add the album to my music library.",
+        "On the Amazon Music page, view the album's tracklist and play the first song."
+      ]
+    }
+  ],
+  "Stores and Shops": [
+    {
+      "https://www.amazon.com/stores/page/E683D787-8227-4071-A5DA-835AEDBD7438": [
+        "Navigate to the Shop by Shopbop Sale page and find a pair of women's shoes on sale.",
+        "Go to the Shop by Shopbop Sale page and browse the 'CLOTHING' section for any discounted items.",
+        "Visit the Shop by Shopbop Sale page and explore the 'GET INSPIRED' menu for outfit ideas.",
+        "Check the 'BAGS, JEWELRY & MORE' section on the Shop by Shopbop Sale page for any promotional offers.",
+        "On the Shop by Shopbop Sale page, locate the 'DESIGNER SPOTLIGHT' and see if there are any highlighted designers with special deals."
+      ]
+    },
+    {
+      "https://www.amazon.com/stores/page/9F8D5481-140E-49A5-9DFF-7882BBD33487": [
+        "Go to the Yves Durif brand page on Amazon and add the Women's Vented Brush, Ivory, One Size to my cart.",
+        "Find the Yves Durif Women's Petite Vented Brush, Ivory, One Size on the brand page and show me the customer reviews.",
+        "Check the price of the Yves Durif Women's The Shaper Brush, One Size and let me know if it's available for Prime shipping.",
+        "Navigate to the Yves Durif brand page and add the Women's The Yves Durif Comb, Ivory, One Size to my cart.",
+        "On the Yves Durif brand page, look for the Women's Classic Brush, Ivory, One Size and tell me how many customer reviews it has.",
+        "Browse the Yves Durif brand page and let me know if the Women's The Mini Set, One Size is eligible for a discount.",
+        "Visit the Yves Durif brand page and show me the details of the Women's The Brush Dor, Ivory, One Size."
+      ]
+    }
+  ]
+}
